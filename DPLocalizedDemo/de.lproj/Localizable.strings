@@ -1,0 +1,15 @@
+/* 
+  Localizable.strings
+  DPLocalizedDemo
+
+  Created by Hongli Yu on 2020/9/22.
+  
+*/
+
+"orangutan" = "Orang-Utan";
+"monkey" = "Affe";
+"antelope" = "Antilope";
+"snow leopard" = "Schneeleopard";
+"robot" = "Roboter";
+"fighter" = "Kämpfer";
+"Back" = "Zurück";
